@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"com.hello","l":"Test"},{"l":"所有类","u":"allclasses-index.html"}];updateSearchResults();
