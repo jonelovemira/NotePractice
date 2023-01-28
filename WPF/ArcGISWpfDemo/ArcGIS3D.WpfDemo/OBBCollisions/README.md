@@ -1,1 +1,0 @@
-﻿https://stackoverflow.com/questions/47866571/simple-oriented-bounding-box-obb-collision-detection-explaining

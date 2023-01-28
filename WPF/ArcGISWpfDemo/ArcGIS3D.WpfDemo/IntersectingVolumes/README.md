@@ -1,1 +1,0 @@
-﻿https://stackoverflow.com/questions/5556170/finding-shared-volume-of-two-overlapping-cuboids
